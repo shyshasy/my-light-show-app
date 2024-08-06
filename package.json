@@ -39,5 +39,10 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "scripts": {
+  "dev": "vue-cli-service serve",
+  "build": "vue-cli-service build",
+  "lint": "vue-cli-service lint"
+}
 }
